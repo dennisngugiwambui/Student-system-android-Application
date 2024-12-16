@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "StudentSystem\\AppShell.xaml",
               "ToolTip": "C:\\Users\\Denno\\source\\repos\\StudentSystem\\StudentSystem\\AppShell.xaml",
               "RelativeToolTip": "StudentSystem\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-31T16:38:54.964Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "StudentSystem\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T16:38:46.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T16:38:46.047Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "StudentSystem\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:38:42.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T16:38:42.348Z"
             },
             {
               "$type": "Bookmark",
