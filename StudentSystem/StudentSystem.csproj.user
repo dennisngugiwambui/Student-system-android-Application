@@ -17,7 +17,7 @@
       <SubType>Designer</SubType>
     </None>
     <None Update="Platforms\Windows\App.xaml">
-      <SubType>Designer</SubType>
+      <SubType>Designer</SubType
     </None>
     <None Update="Platforms\Windows\Package.appxmanifest">
       <SubType>Designer</SubType>
